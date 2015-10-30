@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArcGISTesting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_button_text">按钮A</string>
+    <string name="title_button_text2">按钮B</string>
+    <dimen name="button_width">50dp</dimen>
+</resources>
